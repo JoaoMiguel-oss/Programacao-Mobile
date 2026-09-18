@@ -1,0 +1,1 @@
+export const API_URL = 'http://172.26.64.1/app_scholar_api';
