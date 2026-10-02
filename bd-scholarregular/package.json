@@ -14,7 +14,7 @@
     "react-native": "0.81.5",
     "react-dom": "19.1.0",
     "react-native-web": "~0.21.0",
-    "@expo/metro-runtime": "~54.0.37",
+    "@expo/metro-runtime": "^4.0.0",
     "react-native-paper": "4.9.2",
     "@expo/vector-icons": "^15.1.1"
   },
